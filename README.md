@@ -10,3 +10,5 @@ Think of it as the software engineer's equivalent tool-set to the competitive pr
 However, they're not viewed as perfect and have been criticised a fair amount. For instance, some patterns are seen as unnecessary in functional languages (and modern languages with that functionality) and out-dated. See this talk for one such argument: https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care
 
 Not only does it present interesting views, it goes into the history of Design Patterns and where the Gang of Four (GoF) got their idea from; the seminal architectural phenomenon A Pattern Language. He then draws parallels between A Pattern Language and the inspired Design Patterns and analyses where they differ and how that led to Design Patterns being less respected in later years. 
+
+In this repository, if you are not familiar with metatables and OOP in Lua, I would recommend reading ClassesInLua.Lua first which provides an explanation (although maybe too wordy on my part) on the relevant mechanisms. This is because many of the patterns revolve around this
